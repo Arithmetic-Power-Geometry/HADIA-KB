@@ -1,0 +1,224 @@
+@prefix hadia: <https://example.org/hadia/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+hadia:HS0001 dct:title "A Check list of medicinal plants used in making Rice beer (Handia) in Jharkhand" .
+hadia:HS0002 dct:title "Studies on ethnomedicinal plants used in rice-beer (Handia) by 'Ho' tribe of Jharkhand" .
+hadia:HS0003 dct:title "Ethnobotany of starter culture (Ranu) used in production of rice-beer (Handia) by Oraon tribes of Khunti district of Jharkhand" .
+hadia:HS0004 dct:title "Ethnic Preparation of Haria, a Rice-Based Fermented Beverage, in the Province of Lateritic West Bengal, India" .
+hadia:HS0005 dct:title "Microbial, saccharifying and antioxidant properties of an Indian rice based fermented beverage" .
+hadia:HS0006 dct:title "Role of probiotic Lactobacillus fermentum KKL1 in the preparation of a rice based fermented beverage" .
+hadia:HS0007 dct:title "Physicochemical Characteristics and Lactic Acid Bacterial Diversity of an Ethnic Rice Fermented Mild Alcoholic Beverage, Haria" .
+hadia:HS0008 dct:title "Screening of health beneficial microbes with potential probiotic characteristics from the traditional rice-based alcoholic beverage, haria" .
+hadia:HS0009 dct:title "A novel probiotic strain of Lactobacillus fermentum TIU19 isolated from Haria beer showing both in vitro antibacterial and antibiofilm properties" .
+hadia:HS0010 dct:title "Traditional Knowledge and Nutritive Value of Indigenous Foods in the Oraon Tribal Community of Jharkhand" .
+hadia:HS0011 dct:title "Traditional food consumption pattern and nutritional status of Oraons: An Asian Indian indigenous community" .
+hadia:HS0012 dct:title "Sarhul" .
+hadia:HS0013 dct:title "Culture & Heritage" .
+hadia:HS0014 dct:title "Phulo Jhano Aashirwad campaign interaction" .
+hadia:HS0015 dct:title "Rural Development Department review - Phulo Jhano" .
+hadia:HS0016 dct:title "The Excise Law of Bihar & Jharkhand 1915" .
+hadia:HS0017 dct:title "Food Safety and Standards (Alcoholic Beverages) First Amendment Regulations, 2025" .
+hadia:HS0018 dct:title "Process characteristics and nutritional evaluation of handia - A cereal based ethnic fermented food from Odisha" .
+hadia:HS0019 dct:title "Ethnobotanical perspectives of Bakhar: an indigenous starter culture used to prepare traditionally fermented rice beverage in rural West Bengal, India" .
+hadia:HS0020 dct:title "The Microbiology and Traditional State of Fermented Beverage Handia: A Review" .
+hadia:HS0021 dct:title "A Review on Handia - A Traditional Drink of Tribals" .
+hadia:HS0022 dct:title "Brewing Belief: The Cultural and Political Life of Hadia and Sarhul in Jharkhand" .
+hadia:HS0023 dct:title "Physicochemical, antibacterial and antioxidant evaluation of cereal-based ethnic fermented Handia" .
+hadia:HS0024 dct:title "HR-LCMS based metabolite profiling, antioxidant activity and microbial study of haria from North Dinajpur" .
+hadia:HS0025 dct:title "Handiya" .
+hadia:HS0026 dct:title "Ethnobotany of Bakhar used to prepare rice beer (Haria) in Paschim Medinipur, West Bengal, India" .
+hadia:HS0027 dct:title "Antimicrobial efficacy of potential plants used in the indigenous preparation of traditional rice beverage Handia" .
+hadia:HS0028 dct:title "Microbial, saccharifying and antioxidant properties of an Indian rice based fermented beverage" .
+hadia:HS0029 dct:title "Rice and other cereals based beverages" .
+hadia:HCLM0001 hadia:supported_by hadia:HS0001 .
+hadia:HCLM0001 hadia:reports_name hadia:Handia .
+hadia:HCLM0001 hadia:applies_to_scope hadia:Jharkhand .
+hadia:HCLM0001 hadia:has_category hadia:ethnobotany .
+hadia:HCLM0002 hadia:supported_by hadia:HS0001 .
+hadia:HCLM0002 hadia:reports_name hadia:Handia .
+hadia:HCLM0002 hadia:applies_to_scope hadia:Jharkhand .
+hadia:HCLM0002 hadia:has_category hadia:safety_adulteration .
+hadia:HCLM0003 hadia:supported_by hadia:HS0002 .
+hadia:HCLM0003 hadia:reports_name hadia:Handia .
+hadia:HCLM0003 hadia:applies_to_scope hadia:West_Singhbhum__Jharkhand .
+hadia:HCLM0003 hadia:has_category hadia:ethnobotany .
+hadia:HCLM0004 hadia:supported_by hadia:HS0003 .
+hadia:HCLM0004 hadia:reports_name hadia:Handia .
+hadia:HCLM0004 hadia:applies_to_scope hadia:Khunti__Jharkhand .
+hadia:HCLM0004 hadia:has_category hadia:variation .
+hadia:HCLM0005 hadia:supported_by hadia:HS0003 .
+hadia:HCLM0005 hadia:reports_name hadia:Handia .
+hadia:HCLM0005 hadia:applies_to_scope hadia:Khunti__Jharkhand .
+hadia:HCLM0005 hadia:has_category hadia:culture .
+hadia:HCLM0006 hadia:supported_by hadia:HS0004 .
+hadia:HCLM0006 hadia:reports_name hadia:Haria .
+hadia:HCLM0006 hadia:applies_to_scope hadia:West_Bengal .
+hadia:HCLM0006 hadia:has_category hadia:process .
+hadia:HCLM0007 hadia:supported_by hadia:HS0004 .
+hadia:HCLM0007 hadia:reports_name hadia:Haria .
+hadia:HCLM0007 hadia:applies_to_scope hadia:West_Bengal .
+hadia:HCLM0007 hadia:has_category hadia:chemistry .
+hadia:HCLM0008 hadia:supported_by hadia:HS0005 .
+hadia:HCLM0008 hadia:reports_name hadia:Haria .
+hadia:HCLM0008 hadia:applies_to_scope hadia:West_Bengal .
+hadia:HCLM0008 hadia:has_category hadia:microbiology .
+hadia:HCLM0009 hadia:supported_by hadia:HS0005 .
+hadia:HCLM0009 hadia:reports_name hadia:Haria .
+hadia:HCLM0009 hadia:applies_to_scope hadia:West_Bengal .
+hadia:HCLM0009 hadia:has_category hadia:chemistry .
+hadia:HCLM0010 hadia:supported_by hadia:HS0005 .
+hadia:HCLM0010 hadia:reports_name hadia:Haria .
+hadia:HCLM0010 hadia:applies_to_scope hadia:West_Bengal .
+hadia:HCLM0010 hadia:has_category hadia:bioactivity .
+hadia:HCLM0011 hadia:supported_by hadia:HS0006 .
+hadia:HCLM0011 hadia:reports_name hadia:Haria .
+hadia:HCLM0011 hadia:applies_to_scope hadia:West_Bengal .
+hadia:HCLM0011 hadia:has_category hadia:microbiology .
+hadia:HCLM0012 hadia:supported_by hadia:HS0007 .
+hadia:HCLM0012 hadia:reports_name hadia:Haria .
+hadia:HCLM0012 hadia:applies_to_scope hadia:West_Bengal .
+hadia:HCLM0012 hadia:has_category hadia:microbiology .
+hadia:HCLM0013 hadia:supported_by hadia:HS0007 .
+hadia:HCLM0013 hadia:reports_name hadia:Haria .
+hadia:HCLM0013 hadia:applies_to_scope hadia:West_Bengal .
+hadia:HCLM0013 hadia:has_category hadia:chemistry .
+hadia:HCLM0014 hadia:supported_by hadia:HS0008 .
+hadia:HCLM0014 hadia:reports_name hadia:Haria .
+hadia:HCLM0014 hadia:applies_to_scope hadia:Bankura__West_Bengal .
+hadia:HCLM0014 hadia:has_category hadia:microbiology .
+hadia:HCLM0015 hadia:supported_by hadia:HS0009 .
+hadia:HCLM0015 hadia:reports_name hadia:Haria .
+hadia:HCLM0015 hadia:applies_to_scope hadia:West_Bengal .
+hadia:HCLM0015 hadia:has_category hadia:microbiology .
+hadia:HCLM0016 hadia:supported_by hadia:HS0010 .
+hadia:HCLM0016 hadia:reports_name hadia:Hadiya .
+hadia:HCLM0016 hadia:applies_to_scope hadia:Jharkhand .
+hadia:HCLM0016 hadia:has_category hadia:diet_culture .
+hadia:HCLM0017 hadia:supported_by hadia:HS0011 .
+hadia:HCLM0017 hadia:reports_name hadia:Handia .
+hadia:HCLM0017 hadia:applies_to_scope hadia:West_Bengal .
+hadia:HCLM0017 hadia:has_category hadia:nutrition .
+hadia:HCLM0018 hadia:supported_by hadia:HS0012 .
+hadia:HCLM0018 hadia:reports_name hadia:Handia .
+hadia:HCLM0018 hadia:applies_to_scope hadia:Jharkhand .
+hadia:HCLM0018 hadia:has_category hadia:culture .
+hadia:HCLM0019 hadia:supported_by hadia:HS0013 .
+hadia:HCLM0019 hadia:reports_name hadia:rice_beer .
+hadia:HCLM0019 hadia:applies_to_scope hadia:Khunti__Jharkhand .
+hadia:HCLM0019 hadia:has_category hadia:culture .
+hadia:HCLM0020 hadia:supported_by hadia:HS0014 .
+hadia:HCLM0020 hadia:reports_name hadia:हड__य_ .
+hadia:HCLM0020 hadia:applies_to_scope hadia:Jharkhand .
+hadia:HCLM0020 hadia:has_category hadia:policy .
+hadia:HCLM0021 hadia:supported_by hadia:HS0015 .
+hadia:HCLM0021 hadia:reports_name hadia:हड__य_ .
+hadia:HCLM0021 hadia:applies_to_scope hadia:Jharkhand .
+hadia:HCLM0021 hadia:has_category hadia:policy .
+hadia:HCLM0022 hadia:supported_by hadia:HS0016 .
+hadia:HCLM0022 hadia:reports_name hadia:pachwai .
+hadia:HCLM0022 hadia:applies_to_scope hadia:Jharkhand .
+hadia:HCLM0022 hadia:has_category hadia:law .
+hadia:HCLM0023 hadia:supported_by hadia:HS0017 .
+hadia:HCLM0023 hadia:reports_name hadia:Handia__Haria .
+hadia:HCLM0023 hadia:applies_to_scope hadia:India .
+hadia:HCLM0023 hadia:has_category hadia:regulation .
+hadia:HCLM0024 hadia:supported_by hadia:HS0018 .
+hadia:HCLM0024 hadia:reports_name hadia:Handia .
+hadia:HCLM0024 hadia:applies_to_scope hadia:Northern_Odisha .
+hadia:HCLM0024 hadia:has_category hadia:ethnobotany .
+hadia:HCLM0025 hadia:supported_by hadia:HS0019 .
+hadia:HCLM0025 hadia:reports_name hadia:Haria .
+hadia:HCLM0025 hadia:applies_to_scope hadia:West_Bengal .
+hadia:HCLM0025 hadia:has_category hadia:ethnobotany .
+hadia:HCLM0026 hadia:supported_by hadia:HS0019 .
+hadia:HCLM0026 hadia:reports_name hadia:Haria .
+hadia:HCLM0026 hadia:applies_to_scope hadia:West_Bengal .
+hadia:HCLM0026 hadia:has_category hadia:nutrition .
+hadia:HCLM0027 hadia:supported_by hadia:HS0023 .
+hadia:HCLM0027 hadia:reports_name hadia:Handia .
+hadia:HCLM0027 hadia:applies_to_scope hadia:Mayurbhanj__Odisha .
+hadia:HCLM0027 hadia:has_category hadia:chemistry .
+hadia:HCLM0028 hadia:supported_by hadia:HS0023 .
+hadia:HCLM0028 hadia:reports_name hadia:Handia .
+hadia:HCLM0028 hadia:applies_to_scope hadia:Mayurbhanj__Odisha .
+hadia:HCLM0028 hadia:has_category hadia:safety .
+hadia:HCLM0029 hadia:supported_by hadia:HS0024 .
+hadia:HCLM0029 hadia:reports_name hadia:Haria .
+hadia:HCLM0029 hadia:applies_to_scope hadia:North_Dinajpur__West_Bengal .
+hadia:HCLM0029 hadia:has_category hadia:metabolomics .
+hadia:HCLM0030 hadia:supported_by hadia:HS0024 .
+hadia:HCLM0030 hadia:reports_name hadia:Haria .
+hadia:HCLM0030 hadia:applies_to_scope hadia:North_Dinajpur__West_Bengal .
+hadia:HCLM0030 hadia:has_category hadia:safety .
+hadia:HCLM0031 hadia:supported_by hadia:HS0025 .
+hadia:HCLM0031 hadia:reports_name hadia:Handiya .
+hadia:HCLM0031 hadia:applies_to_scope hadia:Jharkhand .
+hadia:HCLM0031 hadia:has_category hadia:variation .
+hadia:HCLM0032 hadia:supported_by hadia:HS0026 .
+hadia:HCLM0032 hadia:reports_name hadia:Handia_or_Haria .
+hadia:HCLM0032 hadia:applies_to_scope hadia:Paschim_Medinipur__West_Bengal .
+hadia:HCLM0032 hadia:has_category hadia:ethnobotany .
+hadia:HCLM0033 hadia:supported_by hadia:HS0026 .
+hadia:HCLM0033 hadia:reports_name hadia:Haria .
+hadia:HCLM0033 hadia:applies_to_scope hadia:Paschim_Medinipur__West_Bengal .
+hadia:HCLM0033 hadia:has_category hadia:ethnomedicine .
+hadia:HCLM0034 hadia:supported_by hadia:HS0027 .
+hadia:HCLM0034 hadia:reports_name hadia:Handia .
+hadia:HCLM0034 hadia:applies_to_scope hadia:Odisha .
+hadia:HCLM0034 hadia:has_category hadia:laboratory .
+hadia:HP0001 hadia:reported_in hadia:Ranu .
+hadia:HP0001 hadia:supported_by hadia:HS0002 .
+hadia:HP0002 hadia:reported_in hadia:Ranu .
+hadia:HP0002 hadia:supported_by hadia:HS0002 .
+hadia:HP0003 hadia:reported_in hadia:Ranu .
+hadia:HP0003 hadia:supported_by hadia:HS0002 .
+hadia:HP0004 hadia:reported_in hadia:Ranu .
+hadia:HP0004 hadia:supported_by hadia:HS0002 .
+hadia:HP0005 hadia:reported_in hadia:Ranu .
+hadia:HP0005 hadia:supported_by hadia:HS0002 .
+hadia:HP0006 hadia:reported_in hadia:Bakhar .
+hadia:HP0006 hadia:supported_by hadia:HS0019 .
+hadia:HP0007 hadia:reported_in hadia:Bakhar .
+hadia:HP0007 hadia:supported_by hadia:HS0019 .
+hadia:HP0008 hadia:reported_in hadia:Bakhar .
+hadia:HP0008 hadia:supported_by hadia:HS0019 .
+hadia:HP0009 hadia:reported_in hadia:Bakhar .
+hadia:HP0009 hadia:supported_by hadia:HS0019 .
+hadia:HP0010 hadia:reported_in hadia:Bakhar .
+hadia:HP0010 hadia:supported_by hadia:HS0019 .
+hadia:HP0011 hadia:reported_in hadia:Bakhar .
+hadia:HP0011 hadia:supported_by hadia:HS0019 .
+hadia:HP0012 hadia:reported_in hadia:Bakhar .
+hadia:HP0012 hadia:supported_by hadia:HS0019 .
+hadia:HP0013 hadia:reported_in hadia:Bakhar .
+hadia:HP0013 hadia:supported_by hadia:HS0019 .
+hadia:HP0014 hadia:reported_in hadia:Bakhar .
+hadia:HP0014 hadia:supported_by hadia:HS0019 .
+hadia:HP0015 hadia:reported_in hadia:Bakhar .
+hadia:HP0015 hadia:supported_by hadia:HS0019 .
+hadia:HP0016 hadia:reported_in hadia:Bakhar .
+hadia:HP0016 hadia:supported_by hadia:HS0019 .
+hadia:HM0001 hadia:reported_in_beverage hadia:Haria .
+hadia:HM0001 hadia:supported_by hadia:HS0007 .
+hadia:HM0002 hadia:reported_in_beverage hadia:Haria .
+hadia:HM0002 hadia:supported_by hadia:HS0007 .
+hadia:HM0003 hadia:reported_in_beverage hadia:Haria .
+hadia:HM0003 hadia:supported_by hadia:HS0007 .
+hadia:HM0004 hadia:reported_in_beverage hadia:Haria .
+hadia:HM0004 hadia:supported_by hadia:HS0007 .
+hadia:HM0005 hadia:reported_in_beverage hadia:Haria .
+hadia:HM0005 hadia:supported_by hadia:HS0007 .
+hadia:HM0006 hadia:reported_in_beverage hadia:Haria .
+hadia:HM0006 hadia:supported_by hadia:HS0006 .
+hadia:HM0007 hadia:reported_in_beverage hadia:Haria .
+hadia:HM0007 hadia:supported_by hadia:HS0008 .
+hadia:HM0008 hadia:reported_in_beverage hadia:Haria .
+hadia:HM0008 hadia:supported_by hadia:HS0008 .
+hadia:HM0009 hadia:reported_in_beverage hadia:Haria .
+hadia:HM0009 hadia:supported_by hadia:HS0008 .
+hadia:HM0010 hadia:reported_in_beverage hadia:Haria .
+hadia:HM0010 hadia:supported_by hadia:HS0009 .
+hadia:HM0011 hadia:reported_in_beverage hadia:Haria .
+hadia:HM0011 hadia:supported_by hadia:HS0024 .
+hadia:HM0012 hadia:reported_in_beverage hadia:Haria .
+hadia:HM0012 hadia:supported_by hadia:HS0024 .

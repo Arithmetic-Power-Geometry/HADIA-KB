@@ -1,0 +1,1090 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="evidence_status" attr.type="string"/>
+<key id="d1" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d0" for="edge" attr.name="predicate" attr.type="string"/>
+<graph edgedefault="directed"><node id="HCLM0001"/>
+<node id="HS0001"/>
+<node id="Handia"/>
+<node id="Jharkhand"/>
+<node id="ethnobotany"/>
+<node id="HCLM0002"/>
+<node id="safety/adulteration"/>
+<node id="HCLM0003"/>
+<node id="HS0002"/>
+<node id="West Singhbhum, Jharkhand"/>
+<node id="HCLM0004"/>
+<node id="HS0003"/>
+<node id="Khunti, Jharkhand"/>
+<node id="variation"/>
+<node id="HCLM0005"/>
+<node id="culture"/>
+<node id="HCLM0006"/>
+<node id="HS0004"/>
+<node id="Haria"/>
+<node id="West Bengal"/>
+<node id="process"/>
+<node id="HCLM0007"/>
+<node id="chemistry"/>
+<node id="HCLM0008"/>
+<node id="HS0005"/>
+<node id="microbiology"/>
+<node id="HCLM0009"/>
+<node id="HCLM0010"/>
+<node id="bioactivity"/>
+<node id="HCLM0011"/>
+<node id="HS0006"/>
+<node id="HCLM0012"/>
+<node id="HS0007"/>
+<node id="HCLM0013"/>
+<node id="HCLM0014"/>
+<node id="HS0008"/>
+<node id="Bankura, West Bengal"/>
+<node id="HCLM0015"/>
+<node id="HS0009"/>
+<node id="HCLM0016"/>
+<node id="HS0010"/>
+<node id="Hadiya"/>
+<node id="diet/culture"/>
+<node id="HCLM0017"/>
+<node id="HS0011"/>
+<node id="nutrition"/>
+<node id="HCLM0018"/>
+<node id="HS0012"/>
+<node id="HCLM0019"/>
+<node id="HS0013"/>
+<node id="rice beer"/>
+<node id="HCLM0020"/>
+<node id="HS0014"/>
+<node id="हड़िया"/>
+<node id="policy"/>
+<node id="HCLM0021"/>
+<node id="HS0015"/>
+<node id="HCLM0022"/>
+<node id="HS0016"/>
+<node id="pachwai"/>
+<node id="law"/>
+<node id="HCLM0023"/>
+<node id="HS0017"/>
+<node id="Handia; Haria"/>
+<node id="India"/>
+<node id="regulation"/>
+<node id="HCLM0024"/>
+<node id="HS0018"/>
+<node id="Northern Odisha"/>
+<node id="HCLM0025"/>
+<node id="HS0019"/>
+<node id="HCLM0026"/>
+<node id="HCLM0027"/>
+<node id="HS0023"/>
+<node id="Mayurbhanj, Odisha"/>
+<node id="HCLM0028"/>
+<node id="safety"/>
+<node id="HCLM0029"/>
+<node id="HS0024"/>
+<node id="North Dinajpur, West Bengal"/>
+<node id="metabolomics"/>
+<node id="HCLM0030"/>
+<node id="HCLM0031"/>
+<node id="HS0025"/>
+<node id="Handiya"/>
+<node id="HCLM0032"/>
+<node id="HS0026"/>
+<node id="Handia or Haria"/>
+<node id="Paschim Medinipur, West Bengal"/>
+<node id="HCLM0033"/>
+<node id="ethnomedicine"/>
+<node id="HCLM0034"/>
+<node id="HS0027"/>
+<node id="Odisha"/>
+<node id="laboratory"/>
+<node id="HP0001"/>
+<node id="Ranu"/>
+<node id="HP0002"/>
+<node id="HP0003"/>
+<node id="HP0004"/>
+<node id="HP0005"/>
+<node id="HP0006"/>
+<node id="Bakhar"/>
+<node id="HP0007"/>
+<node id="HP0008"/>
+<node id="HP0009"/>
+<node id="HP0010"/>
+<node id="HP0011"/>
+<node id="HP0012"/>
+<node id="HP0013"/>
+<node id="HP0014"/>
+<node id="HP0015"/>
+<node id="HP0016"/>
+<node id="HM0001"/>
+<node id="HM0002"/>
+<node id="HM0003"/>
+<node id="HM0004"/>
+<node id="HM0005"/>
+<node id="HM0006"/>
+<node id="HM0007"/>
+<node id="HM0008"/>
+<node id="HM0009"/>
+<node id="HM0010"/>
+<node id="HM0011"/>
+<node id="HM0012"/>
+<edge source="HCLM0001" target="HS0001" id="HR000001">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0001</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0001" target="Handia" id="HR000002">
+  <data key="d0">REPORTS_NAME</data>
+  <data key="d1">HS0001</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0001" target="Jharkhand" id="HR000003">
+  <data key="d0">APPLIES_TO_SCOPE</data>
+  <data key="d1">HS0001</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0001" target="ethnobotany" id="HR000004">
+  <data key="d0">HAS_CATEGORY</data>
+  <data key="d1">HS0001</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0002" target="HS0001" id="HR000005">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0001</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0002" target="Handia" id="HR000006">
+  <data key="d0">REPORTS_NAME</data>
+  <data key="d1">HS0001</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0002" target="Jharkhand" id="HR000007">
+  <data key="d0">APPLIES_TO_SCOPE</data>
+  <data key="d1">HS0001</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0002" target="safety/adulteration" id="HR000008">
+  <data key="d0">HAS_CATEGORY</data>
+  <data key="d1">HS0001</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0003" target="HS0002" id="HR000009">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0002</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0003" target="Handia" id="HR000010">
+  <data key="d0">REPORTS_NAME</data>
+  <data key="d1">HS0002</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0003" target="West Singhbhum, Jharkhand" id="HR000011">
+  <data key="d0">APPLIES_TO_SCOPE</data>
+  <data key="d1">HS0002</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0003" target="ethnobotany" id="HR000012">
+  <data key="d0">HAS_CATEGORY</data>
+  <data key="d1">HS0002</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0004" target="HS0003" id="HR000013">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0003</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0004" target="Handia" id="HR000014">
+  <data key="d0">REPORTS_NAME</data>
+  <data key="d1">HS0003</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0004" target="Khunti, Jharkhand" id="HR000015">
+  <data key="d0">APPLIES_TO_SCOPE</data>
+  <data key="d1">HS0003</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0004" target="variation" id="HR000016">
+  <data key="d0">HAS_CATEGORY</data>
+  <data key="d1">HS0003</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0005" target="HS0003" id="HR000017">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0003</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0005" target="Handia" id="HR000018">
+  <data key="d0">REPORTS_NAME</data>
+  <data key="d1">HS0003</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0005" target="Khunti, Jharkhand" id="HR000019">
+  <data key="d0">APPLIES_TO_SCOPE</data>
+  <data key="d1">HS0003</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0005" target="culture" id="HR000020">
+  <data key="d0">HAS_CATEGORY</data>
+  <data key="d1">HS0003</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0006" target="HS0004" id="HR000021">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0004</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0006" target="Haria" id="HR000022">
+  <data key="d0">REPORTS_NAME</data>
+  <data key="d1">HS0004</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0006" target="West Bengal" id="HR000023">
+  <data key="d0">APPLIES_TO_SCOPE</data>
+  <data key="d1">HS0004</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0006" target="process" id="HR000024">
+  <data key="d0">HAS_CATEGORY</data>
+  <data key="d1">HS0004</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0007" target="HS0004" id="HR000025">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0004</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0007" target="Haria" id="HR000026">
+  <data key="d0">REPORTS_NAME</data>
+  <data key="d1">HS0004</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0007" target="West Bengal" id="HR000027">
+  <data key="d0">APPLIES_TO_SCOPE</data>
+  <data key="d1">HS0004</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0007" target="chemistry" id="HR000028">
+  <data key="d0">HAS_CATEGORY</data>
+  <data key="d1">HS0004</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0008" target="HS0005" id="HR000029">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0005</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0008" target="Haria" id="HR000030">
+  <data key="d0">REPORTS_NAME</data>
+  <data key="d1">HS0005</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0008" target="West Bengal" id="HR000031">
+  <data key="d0">APPLIES_TO_SCOPE</data>
+  <data key="d1">HS0005</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0008" target="microbiology" id="HR000032">
+  <data key="d0">HAS_CATEGORY</data>
+  <data key="d1">HS0005</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0009" target="HS0005" id="HR000033">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0005</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0009" target="Haria" id="HR000034">
+  <data key="d0">REPORTS_NAME</data>
+  <data key="d1">HS0005</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0009" target="West Bengal" id="HR000035">
+  <data key="d0">APPLIES_TO_SCOPE</data>
+  <data key="d1">HS0005</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0009" target="chemistry" id="HR000036">
+  <data key="d0">HAS_CATEGORY</data>
+  <data key="d1">HS0005</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0010" target="HS0005" id="HR000037">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0005</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0010" target="Haria" id="HR000038">
+  <data key="d0">REPORTS_NAME</data>
+  <data key="d1">HS0005</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0010" target="West Bengal" id="HR000039">
+  <data key="d0">APPLIES_TO_SCOPE</data>
+  <data key="d1">HS0005</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0010" target="bioactivity" id="HR000040">
+  <data key="d0">HAS_CATEGORY</data>
+  <data key="d1">HS0005</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0011" target="HS0006" id="HR000041">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0006</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0011" target="Haria" id="HR000042">
+  <data key="d0">REPORTS_NAME</data>
+  <data key="d1">HS0006</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0011" target="West Bengal" id="HR000043">
+  <data key="d0">APPLIES_TO_SCOPE</data>
+  <data key="d1">HS0006</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0011" target="microbiology" id="HR000044">
+  <data key="d0">HAS_CATEGORY</data>
+  <data key="d1">HS0006</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0012" target="HS0007" id="HR000045">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0007</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0012" target="Haria" id="HR000046">
+  <data key="d0">REPORTS_NAME</data>
+  <data key="d1">HS0007</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0012" target="West Bengal" id="HR000047">
+  <data key="d0">APPLIES_TO_SCOPE</data>
+  <data key="d1">HS0007</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0012" target="microbiology" id="HR000048">
+  <data key="d0">HAS_CATEGORY</data>
+  <data key="d1">HS0007</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0013" target="HS0007" id="HR000049">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0007</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0013" target="Haria" id="HR000050">
+  <data key="d0">REPORTS_NAME</data>
+  <data key="d1">HS0007</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0013" target="West Bengal" id="HR000051">
+  <data key="d0">APPLIES_TO_SCOPE</data>
+  <data key="d1">HS0007</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0013" target="chemistry" id="HR000052">
+  <data key="d0">HAS_CATEGORY</data>
+  <data key="d1">HS0007</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0014" target="HS0008" id="HR000053">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0008</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0014" target="Haria" id="HR000054">
+  <data key="d0">REPORTS_NAME</data>
+  <data key="d1">HS0008</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0014" target="Bankura, West Bengal" id="HR000055">
+  <data key="d0">APPLIES_TO_SCOPE</data>
+  <data key="d1">HS0008</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0014" target="microbiology" id="HR000056">
+  <data key="d0">HAS_CATEGORY</data>
+  <data key="d1">HS0008</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0015" target="HS0009" id="HR000057">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0009</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0015" target="Haria" id="HR000058">
+  <data key="d0">REPORTS_NAME</data>
+  <data key="d1">HS0009</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0015" target="West Bengal" id="HR000059">
+  <data key="d0">APPLIES_TO_SCOPE</data>
+  <data key="d1">HS0009</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0015" target="microbiology" id="HR000060">
+  <data key="d0">HAS_CATEGORY</data>
+  <data key="d1">HS0009</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0016" target="HS0010" id="HR000061">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0010</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0016" target="Hadiya" id="HR000062">
+  <data key="d0">REPORTS_NAME</data>
+  <data key="d1">HS0010</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0016" target="Jharkhand" id="HR000063">
+  <data key="d0">APPLIES_TO_SCOPE</data>
+  <data key="d1">HS0010</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0016" target="diet/culture" id="HR000064">
+  <data key="d0">HAS_CATEGORY</data>
+  <data key="d1">HS0010</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0017" target="HS0011" id="HR000065">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0011</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0017" target="Handia" id="HR000066">
+  <data key="d0">REPORTS_NAME</data>
+  <data key="d1">HS0011</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0017" target="West Bengal" id="HR000067">
+  <data key="d0">APPLIES_TO_SCOPE</data>
+  <data key="d1">HS0011</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0017" target="nutrition" id="HR000068">
+  <data key="d0">HAS_CATEGORY</data>
+  <data key="d1">HS0011</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0018" target="HS0012" id="HR000069">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0012</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0018" target="Handia" id="HR000070">
+  <data key="d0">REPORTS_NAME</data>
+  <data key="d1">HS0012</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0018" target="Jharkhand" id="HR000071">
+  <data key="d0">APPLIES_TO_SCOPE</data>
+  <data key="d1">HS0012</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0018" target="culture" id="HR000072">
+  <data key="d0">HAS_CATEGORY</data>
+  <data key="d1">HS0012</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0019" target="HS0013" id="HR000073">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0013</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0019" target="rice beer" id="HR000074">
+  <data key="d0">REPORTS_NAME</data>
+  <data key="d1">HS0013</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0019" target="Khunti, Jharkhand" id="HR000075">
+  <data key="d0">APPLIES_TO_SCOPE</data>
+  <data key="d1">HS0013</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0019" target="culture" id="HR000076">
+  <data key="d0">HAS_CATEGORY</data>
+  <data key="d1">HS0013</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0020" target="HS0014" id="HR000077">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0014</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0020" target="हड़िया" id="HR000078">
+  <data key="d0">REPORTS_NAME</data>
+  <data key="d1">HS0014</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0020" target="Jharkhand" id="HR000079">
+  <data key="d0">APPLIES_TO_SCOPE</data>
+  <data key="d1">HS0014</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0020" target="policy" id="HR000080">
+  <data key="d0">HAS_CATEGORY</data>
+  <data key="d1">HS0014</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0021" target="HS0015" id="HR000081">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0015</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0021" target="हड़िया" id="HR000082">
+  <data key="d0">REPORTS_NAME</data>
+  <data key="d1">HS0015</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0021" target="Jharkhand" id="HR000083">
+  <data key="d0">APPLIES_TO_SCOPE</data>
+  <data key="d1">HS0015</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0021" target="policy" id="HR000084">
+  <data key="d0">HAS_CATEGORY</data>
+  <data key="d1">HS0015</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0022" target="HS0016" id="HR000085">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0016</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0022" target="pachwai" id="HR000086">
+  <data key="d0">REPORTS_NAME</data>
+  <data key="d1">HS0016</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0022" target="Jharkhand" id="HR000087">
+  <data key="d0">APPLIES_TO_SCOPE</data>
+  <data key="d1">HS0016</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0022" target="law" id="HR000088">
+  <data key="d0">HAS_CATEGORY</data>
+  <data key="d1">HS0016</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0023" target="HS0017" id="HR000089">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0017</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0023" target="Handia; Haria" id="HR000090">
+  <data key="d0">REPORTS_NAME</data>
+  <data key="d1">HS0017</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0023" target="India" id="HR000091">
+  <data key="d0">APPLIES_TO_SCOPE</data>
+  <data key="d1">HS0017</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0023" target="regulation" id="HR000092">
+  <data key="d0">HAS_CATEGORY</data>
+  <data key="d1">HS0017</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0024" target="HS0018" id="HR000093">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0018</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0024" target="Handia" id="HR000094">
+  <data key="d0">REPORTS_NAME</data>
+  <data key="d1">HS0018</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0024" target="Northern Odisha" id="HR000095">
+  <data key="d0">APPLIES_TO_SCOPE</data>
+  <data key="d1">HS0018</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0024" target="ethnobotany" id="HR000096">
+  <data key="d0">HAS_CATEGORY</data>
+  <data key="d1">HS0018</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0025" target="HS0019" id="HR000097">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0019</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0025" target="Haria" id="HR000098">
+  <data key="d0">REPORTS_NAME</data>
+  <data key="d1">HS0019</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0025" target="West Bengal" id="HR000099">
+  <data key="d0">APPLIES_TO_SCOPE</data>
+  <data key="d1">HS0019</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0025" target="ethnobotany" id="HR000100">
+  <data key="d0">HAS_CATEGORY</data>
+  <data key="d1">HS0019</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0026" target="HS0019" id="HR000101">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0019</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0026" target="Haria" id="HR000102">
+  <data key="d0">REPORTS_NAME</data>
+  <data key="d1">HS0019</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0026" target="West Bengal" id="HR000103">
+  <data key="d0">APPLIES_TO_SCOPE</data>
+  <data key="d1">HS0019</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0026" target="nutrition" id="HR000104">
+  <data key="d0">HAS_CATEGORY</data>
+  <data key="d1">HS0019</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0027" target="HS0023" id="HR000105">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0023</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0027" target="Handia" id="HR000106">
+  <data key="d0">REPORTS_NAME</data>
+  <data key="d1">HS0023</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0027" target="Mayurbhanj, Odisha" id="HR000107">
+  <data key="d0">APPLIES_TO_SCOPE</data>
+  <data key="d1">HS0023</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0027" target="chemistry" id="HR000108">
+  <data key="d0">HAS_CATEGORY</data>
+  <data key="d1">HS0023</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0028" target="HS0023" id="HR000109">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0023</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0028" target="Handia" id="HR000110">
+  <data key="d0">REPORTS_NAME</data>
+  <data key="d1">HS0023</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0028" target="Mayurbhanj, Odisha" id="HR000111">
+  <data key="d0">APPLIES_TO_SCOPE</data>
+  <data key="d1">HS0023</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0028" target="safety" id="HR000112">
+  <data key="d0">HAS_CATEGORY</data>
+  <data key="d1">HS0023</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0029" target="HS0024" id="HR000113">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0024</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0029" target="Haria" id="HR000114">
+  <data key="d0">REPORTS_NAME</data>
+  <data key="d1">HS0024</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0029" target="North Dinajpur, West Bengal" id="HR000115">
+  <data key="d0">APPLIES_TO_SCOPE</data>
+  <data key="d1">HS0024</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0029" target="metabolomics" id="HR000116">
+  <data key="d0">HAS_CATEGORY</data>
+  <data key="d1">HS0024</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0030" target="HS0024" id="HR000117">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0024</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0030" target="Haria" id="HR000118">
+  <data key="d0">REPORTS_NAME</data>
+  <data key="d1">HS0024</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0030" target="North Dinajpur, West Bengal" id="HR000119">
+  <data key="d0">APPLIES_TO_SCOPE</data>
+  <data key="d1">HS0024</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0030" target="safety" id="HR000120">
+  <data key="d0">HAS_CATEGORY</data>
+  <data key="d1">HS0024</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0031" target="HS0025" id="HR000121">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0025</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0031" target="Handiya" id="HR000122">
+  <data key="d0">REPORTS_NAME</data>
+  <data key="d1">HS0025</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0031" target="Jharkhand" id="HR000123">
+  <data key="d0">APPLIES_TO_SCOPE</data>
+  <data key="d1">HS0025</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0031" target="variation" id="HR000124">
+  <data key="d0">HAS_CATEGORY</data>
+  <data key="d1">HS0025</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0032" target="HS0026" id="HR000125">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0026</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0032" target="Handia or Haria" id="HR000126">
+  <data key="d0">REPORTS_NAME</data>
+  <data key="d1">HS0026</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0032" target="Paschim Medinipur, West Bengal" id="HR000127">
+  <data key="d0">APPLIES_TO_SCOPE</data>
+  <data key="d1">HS0026</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0032" target="ethnobotany" id="HR000128">
+  <data key="d0">HAS_CATEGORY</data>
+  <data key="d1">HS0026</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0033" target="HS0026" id="HR000129">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0026</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0033" target="Haria" id="HR000130">
+  <data key="d0">REPORTS_NAME</data>
+  <data key="d1">HS0026</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0033" target="Paschim Medinipur, West Bengal" id="HR000131">
+  <data key="d0">APPLIES_TO_SCOPE</data>
+  <data key="d1">HS0026</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0033" target="ethnomedicine" id="HR000132">
+  <data key="d0">HAS_CATEGORY</data>
+  <data key="d1">HS0026</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0034" target="HS0027" id="HR000133">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0027</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0034" target="Handia" id="HR000134">
+  <data key="d0">REPORTS_NAME</data>
+  <data key="d1">HS0027</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0034" target="Odisha" id="HR000135">
+  <data key="d0">APPLIES_TO_SCOPE</data>
+  <data key="d1">HS0027</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HCLM0034" target="laboratory" id="HR000136">
+  <data key="d0">HAS_CATEGORY</data>
+  <data key="d1">HS0027</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HP0001" target="Ranu" id="HR000137">
+  <data key="d0">REPORTED_IN</data>
+  <data key="d1">HS0002</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HP0001" target="HS0002" id="HR000138">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0002</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HP0002" target="Ranu" id="HR000139">
+  <data key="d0">REPORTED_IN</data>
+  <data key="d1">HS0002</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HP0002" target="HS0002" id="HR000140">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0002</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HP0003" target="Ranu" id="HR000141">
+  <data key="d0">REPORTED_IN</data>
+  <data key="d1">HS0002</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HP0003" target="HS0002" id="HR000142">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0002</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HP0004" target="Ranu" id="HR000143">
+  <data key="d0">REPORTED_IN</data>
+  <data key="d1">HS0002</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HP0004" target="HS0002" id="HR000144">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0002</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HP0005" target="Ranu" id="HR000145">
+  <data key="d0">REPORTED_IN</data>
+  <data key="d1">HS0002</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HP0005" target="HS0002" id="HR000146">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0002</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HP0006" target="Bakhar" id="HR000147">
+  <data key="d0">REPORTED_IN</data>
+  <data key="d1">HS0019</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HP0006" target="HS0019" id="HR000148">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0019</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HP0007" target="Bakhar" id="HR000149">
+  <data key="d0">REPORTED_IN</data>
+  <data key="d1">HS0019</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HP0007" target="HS0019" id="HR000150">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0019</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HP0008" target="Bakhar" id="HR000151">
+  <data key="d0">REPORTED_IN</data>
+  <data key="d1">HS0019</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HP0008" target="HS0019" id="HR000152">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0019</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HP0009" target="Bakhar" id="HR000153">
+  <data key="d0">REPORTED_IN</data>
+  <data key="d1">HS0019</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HP0009" target="HS0019" id="HR000154">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0019</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HP0010" target="Bakhar" id="HR000155">
+  <data key="d0">REPORTED_IN</data>
+  <data key="d1">HS0019</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HP0010" target="HS0019" id="HR000156">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0019</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HP0011" target="Bakhar" id="HR000157">
+  <data key="d0">REPORTED_IN</data>
+  <data key="d1">HS0019</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HP0011" target="HS0019" id="HR000158">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0019</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HP0012" target="Bakhar" id="HR000159">
+  <data key="d0">REPORTED_IN</data>
+  <data key="d1">HS0019</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HP0012" target="HS0019" id="HR000160">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0019</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HP0013" target="Bakhar" id="HR000161">
+  <data key="d0">REPORTED_IN</data>
+  <data key="d1">HS0019</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HP0013" target="HS0019" id="HR000162">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0019</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HP0014" target="Bakhar" id="HR000163">
+  <data key="d0">REPORTED_IN</data>
+  <data key="d1">HS0019</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HP0014" target="HS0019" id="HR000164">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0019</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HP0015" target="Bakhar" id="HR000165">
+  <data key="d0">REPORTED_IN</data>
+  <data key="d1">HS0019</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HP0015" target="HS0019" id="HR000166">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0019</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HP0016" target="Bakhar" id="HR000167">
+  <data key="d0">REPORTED_IN</data>
+  <data key="d1">HS0019</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HP0016" target="HS0019" id="HR000168">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0019</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HM0001" target="Haria" id="HR000169">
+  <data key="d0">REPORTED_IN_BEVERAGE</data>
+  <data key="d1">HS0007</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HM0001" target="HS0007" id="HR000170">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0007</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HM0002" target="Haria" id="HR000171">
+  <data key="d0">REPORTED_IN_BEVERAGE</data>
+  <data key="d1">HS0007</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HM0002" target="HS0007" id="HR000172">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0007</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HM0003" target="Haria" id="HR000173">
+  <data key="d0">REPORTED_IN_BEVERAGE</data>
+  <data key="d1">HS0007</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HM0003" target="HS0007" id="HR000174">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0007</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HM0004" target="Haria" id="HR000175">
+  <data key="d0">REPORTED_IN_BEVERAGE</data>
+  <data key="d1">HS0007</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HM0004" target="HS0007" id="HR000176">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0007</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HM0005" target="Haria" id="HR000177">
+  <data key="d0">REPORTED_IN_BEVERAGE</data>
+  <data key="d1">HS0007</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HM0005" target="HS0007" id="HR000178">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0007</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HM0006" target="Haria" id="HR000179">
+  <data key="d0">REPORTED_IN_BEVERAGE</data>
+  <data key="d1">HS0006</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HM0006" target="HS0006" id="HR000180">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0006</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HM0007" target="Haria" id="HR000181">
+  <data key="d0">REPORTED_IN_BEVERAGE</data>
+  <data key="d1">HS0008</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HM0007" target="HS0008" id="HR000182">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0008</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HM0008" target="Haria" id="HR000183">
+  <data key="d0">REPORTED_IN_BEVERAGE</data>
+  <data key="d1">HS0008</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HM0008" target="HS0008" id="HR000184">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0008</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HM0009" target="Haria" id="HR000185">
+  <data key="d0">REPORTED_IN_BEVERAGE</data>
+  <data key="d1">HS0008</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HM0009" target="HS0008" id="HR000186">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0008</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HM0010" target="Haria" id="HR000187">
+  <data key="d0">REPORTED_IN_BEVERAGE</data>
+  <data key="d1">HS0009</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HM0010" target="HS0009" id="HR000188">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0009</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HM0011" target="Haria" id="HR000189">
+  <data key="d0">REPORTED_IN_BEVERAGE</data>
+  <data key="d1">HS0024</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HM0011" target="HS0024" id="HR000190">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0024</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HM0012" target="Haria" id="HR000191">
+  <data key="d0">REPORTED_IN_BEVERAGE</data>
+  <data key="d1">HS0024</data>
+  <data key="d2">source-linked</data>
+</edge>
+<edge source="HM0012" target="HS0024" id="HR000192">
+  <data key="d0">SUPPORTED_BY</data>
+  <data key="d1">HS0024</data>
+  <data key="d2">source-linked</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,11 @@
+﻿name_id,canonical_entity,name_as_reported,normalization_note,reported_scope,source_id
+HN0001,Handia,Handia,canonical database label,Jharkhand/eastern India,HS0001
+HN0002,Handia,Hadia,variant,Jharkhand,HS0022
+HN0003,Handia,Hadiya,variant/transliteration,Jharkhand,HS0010
+HN0004,Handia,Handiya,variant,Jharkhand,HS0025
+HN0005,Handia-related,Haria,related/overlapping term; retain geography,West Bengal/eastern India,HS0004
+HN0006,Starter culture,Ranu,starter name,Jharkhand/Odisha,HS0002
+HN0007,Starter culture,Bakhar,starter name,West Bengal/Odisha,HS0004
+HN0008,Starter culture,Bhakar,FSSAI spelling,India,HS0017
+HN0009,Starter culture,Dabai,FSSAI-listed Haria starter,India,HS0017
+HN0010,Starter culture,Mod pitha,FSSAI-listed Haria starter,India,HS0017

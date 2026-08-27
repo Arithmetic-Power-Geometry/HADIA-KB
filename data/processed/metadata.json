@@ -1,0 +1,32 @@
+{
+  "title": "HADIA-KB: Evidence-Linked Knowledge Base of Handia/Hadia/Haria",
+  "version": "1.0.0",
+  "release_date": "2026-08-27",
+  "creator": "Mohammad Amir Khusru Akhtar",
+  "copyright": "Copyright (C) 2026 Mohammad Amir Khusru Akhtar",
+  "scope": "A curated, source-linked snapshot of publicly documented and retrievable evidence about Handia/Hadia/Haria, with Jharkhand as the primary focus and comparative evidence explicitly geotagged.",
+  "canonical_name": "Handia",
+  "aliases": [
+    "Hadia",
+    "Hadiya",
+    "Handiya",
+    "Haria",
+    "Hariya"
+  ],
+  "software_license": "Apache-2.0",
+  "dataset_license": "CC BY 4.0 for original compilation, annotations, schema and documentation; third-party materials retain their own rights.",
+  "limitations": [
+    "Not all community-held knowledge is online.",
+    "The release does not claim exhaustive capture of every internet page.",
+    "Comparative evidence from West Bengal/Odisha is never silently generalized to Jharkhand.",
+    "Ethnomedicinal/in-vitro evidence is not clinical efficacy evidence."
+  ],
+  "counts": {
+    "sources": 29,
+    "claims": 34,
+    "plants_lichen": 16,
+    "microorganisms": 12,
+    "measurements": 18,
+    "relations": 192
+  }
+}

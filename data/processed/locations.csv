@@ -1,0 +1,8 @@
+﻿location_id,country,state,district,locality,precision,display_lat,display_lon,coordinate_basis,notes
+HL0001,India,Jharkhand,,,state,23.6102,85.2799,approximate display centroid,Primary state focus; coordinates only for visualization.
+HL0002,India,Jharkhand,Khunti,,district,23.0766,85.2781,approximate district-HQ display point,Visualization only.
+HL0003,India,Jharkhand,West Singhbhum,Chaibasa,district,22.5500,85.8000,approximate district-HQ display point,Visualization only.
+HL0004,India,Jharkhand,Ranchi,,district,23.3441,85.3096,approximate district-HQ display point,Visualization only.
+HL0005,India,West Bengal,Bankura,,district,23.2324,87.0786,approximate district-HQ display point,Comparative evidence.
+HL0006,India,West Bengal,North Dinajpur,Raiganj,district,25.6185,88.1256,approximate district-HQ display point,Comparative evidence.
+HL0007,India,Odisha,Mayurbhanj,Baripada,district,21.9320,86.7517,approximate district-HQ display point,Comparative evidence.

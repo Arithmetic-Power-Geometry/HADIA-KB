@@ -1,0 +1,112 @@
+[
+  {
+    "file": "HADIA_KB_v1_0.graphml",
+    "sha256": "6cc0af79daaba0582cc8507bde9387ad939cbe44dc6895cba1e4edf2d72a821d",
+    "bytes": 36252
+  },
+  {
+    "file": "HADIA_KB_v1_0.json",
+    "sha256": "7516f4eb77f6a00f2d808078b006e457f7504f5f0e66ecc31b43bca7272edc45",
+    "bytes": 125781
+  },
+  {
+    "file": "HADIA_KB_v1_0.jsonld",
+    "sha256": "9c558bb6f3296b96a671cdf13be99abf1153304b4d19dd992f0de34c9c328e87",
+    "bytes": 22603
+  },
+  {
+    "file": "HADIA_KB_v1_0.ttl",
+    "sha256": "60ac68925b64e39ead9f6164f74c2a5e4e8cb262fcb2b444bb8f2f19bb003df8",
+    "bytes": 13275
+  },
+  {
+    "file": "HADIA_KB_v1_0.xlsx",
+    "sha256": "fe1fe6b1a91d1d5f0bf502edebf8b9258006a10e6785eae68a85e2177708fa4c",
+    "bytes": 34879
+  },
+  {
+    "file": "HADIA_KB_v1_0_COMPLETE.zip",
+    "sha256": "3226167a8e6a0e66a61599c68bc7282157aa136a902c6e2ca3680dcb070bd760",
+    "bytes": 88863
+  },
+  {
+    "file": "HADIA_KB_v1_0_CSV.zip",
+    "sha256": "bcfecff6341ca0b88287a7edf67ea7b6ac44db4def91dfe3bd8c8de041975af7",
+    "bytes": 16084
+  },
+  {
+    "file": "claims.csv",
+    "sha256": "c9a1127d1fea095a18ceaf7d2a667cfc19ad4aa3fee4ffe7fee4c70965830ba4",
+    "bytes": 8422
+  },
+  {
+    "file": "communities.csv",
+    "sha256": "9d8a00536689a5361a98f66f30e0c2164f6eb812f74d5a379447982795a76e8a",
+    "bytes": 452
+  },
+  {
+    "file": "contradictions.csv",
+    "sha256": "6fe8d873c882555a2d8c4805cafdd93923bb5e06842fe6b4d6d2ddeaa2b8f106",
+    "bytes": 569
+  },
+  {
+    "file": "data_dictionary.csv",
+    "sha256": "a338a308d4fbfc349e8db89b438bfa3a817c1e811b4b50a8f676bf1e607dab11",
+    "bytes": 12492
+  },
+  {
+    "file": "gaps.csv",
+    "sha256": "1711bba08bb5c2eb1c8ce7b86154624fe97ad623c762918942f8b718a0a0378f",
+    "bytes": 1746
+  },
+  {
+    "file": "locations.csv",
+    "sha256": "be9ebacd1b3da14526eed13cd5a96d48286815e7657312539b9febf5a7ee07e7",
+    "bytes": 980
+  },
+  {
+    "file": "measurements.csv",
+    "sha256": "9cbab7f63cf70d019898acd8a09956d4c9ba1f2050fb2877fa1031599cc9ed75",
+    "bytes": 4949
+  },
+  {
+    "file": "metadata.json",
+    "sha256": "7ab4ba9dc89afd311f9693ff423b2ad76244786b739982a6d134fd5ac07cb3ce",
+    "bytes": 1221
+  },
+  {
+    "file": "microorganisms.csv",
+    "sha256": "a23b302f9b767439f54dc8e23df91eca6b3bfb6639113d871647b82c9441ee56",
+    "bytes": 3639
+  },
+  {
+    "file": "names.csv",
+    "sha256": "fbc24462eef58082ed33526042f40b88a29f7a0b8a3ed30e7921a2956ff69259",
+    "bytes": 769
+  },
+  {
+    "file": "plants.csv",
+    "sha256": "8d00a364ae4bbbd27e8964fc641386345cc8df705a4fafc5646a2bc24f2cceb7",
+    "bytes": 5092
+  },
+  {
+    "file": "policy_law.csv",
+    "sha256": "30945929245ef72d9ba28e227b0d8b242d729fead88b15a01925cfa1bd125f9f",
+    "bytes": 930
+  },
+  {
+    "file": "relations.csv",
+    "sha256": "86a4eff932637568cf65293ad67f6604bf650b4422ea576df86abfca9a187279",
+    "bytes": 13292
+  },
+  {
+    "file": "sources.csv",
+    "sha256": "081f7f56427f13b8ba37163bd94d1a3db96f5f027dc0606e4ae9a282cefac0f0",
+    "bytes": 9612
+  },
+  {
+    "file": "validation_rules.csv",
+    "sha256": "1e80301a970c278bbd1f281a14c25d510d2d9f78fe4ec9872a043c8f355d70c7",
+    "bytes": 836
+  }
+]

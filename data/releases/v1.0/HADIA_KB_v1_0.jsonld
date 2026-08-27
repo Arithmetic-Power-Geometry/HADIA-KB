@@ -1,0 +1,591 @@
+{
+  "@context": {
+    "hadia": "https://example.org/hadia/",
+    "Claim": "https://schema.org/Claim",
+    "CreativeWork": "https://schema.org/CreativeWork",
+    "text": "https://schema.org/text",
+    "name": "https://schema.org/name",
+    "url": "https://schema.org/url",
+    "datePublished": "https://schema.org/datePublished",
+    "spatialCoverage": "https://schema.org/spatialCoverage",
+    "nameAsReported": "https://example.org/hadia/nameAsReported",
+    "evidenceSource": {
+      "@id": "https://example.org/hadia/evidenceSource",
+      "@type": "@id"
+    }
+  },
+  "@graph": [
+    {
+      "@id": "hadia:source/HS0001",
+      "@type": "CreativeWork",
+      "name": "A Check list of medicinal plants used in making Rice beer (Handia) in Jharkhand",
+      "url": "https://mset-biospectra.org/2012/06/a-check-list-of-medicinal-plants-used-in-making-rice-beer-handia-in-jharkhand/",
+      "datePublished": "2011",
+      "spatialCoverage": "Jharkhand"
+    },
+    {
+      "@id": "hadia:source/HS0002",
+      "@type": "CreativeWork",
+      "name": "Studies on ethnomedicinal plants used in rice-beer (Handia) by 'Ho' tribe of Jharkhand",
+      "url": "https://jbb.jharkhand.gov.in/wp-content/uploads/2024/12/46.STUDIES-ON-ETHNOMEDICINAL-PLANTS-USED-IN-RICE-BEER-Handia-BY-%E2%80%98HO-TRIBE-OF-JHARKHAND.pdf",
+      "datePublished": "2015",
+      "spatialCoverage": "West Singhbhum, Jharkhand"
+    },
+    {
+      "@id": "hadia:source/HS0003",
+      "@type": "CreativeWork",
+      "name": "Ethnobotany of starter culture (Ranu) used in production of rice-beer (Handia) by Oraon tribes of Khunti district of Jharkhand",
+      "url": "https://mset-biospectra.org/2016/09/ethnobotany-of-starter-culture-ranu-used-in-production-of-rice-beer-handia-by-oraon-tribes-of-khunti-district-of-jharkhand/",
+      "datePublished": "2016",
+      "spatialCoverage": "Khunti, Jharkhand"
+    },
+    {
+      "@id": "hadia:source/HS0004",
+      "@type": "CreativeWork",
+      "name": "Ethnic Preparation of Haria, a Rice-Based Fermented Beverage, in the Province of Lateritic West Bengal, India",
+      "url": "https://ethnobotanyjournal.org/index.php/era/article/view/811",
+      "datePublished": "2014",
+      "spatialCoverage": "West Bengal"
+    },
+    {
+      "@id": "hadia:source/HS0005",
+      "@type": "CreativeWork",
+      "name": "Microbial, saccharifying and antioxidant properties of an Indian rice based fermented beverage",
+      "url": "https://doi.org/10.1016/j.foodchem.2014.07.042",
+      "datePublished": "2015",
+      "spatialCoverage": "West Bengal"
+    },
+    {
+      "@id": "hadia:source/HS0006",
+      "@type": "CreativeWork",
+      "name": "Role of probiotic Lactobacillus fermentum KKL1 in the preparation of a rice based fermented beverage",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0960852415001583",
+      "datePublished": "2015",
+      "spatialCoverage": "West Bengal"
+    },
+    {
+      "@id": "hadia:source/HS0007",
+      "@type": "CreativeWork",
+      "name": "Physicochemical Characteristics and Lactic Acid Bacterial Diversity of an Ethnic Rice Fermented Mild Alcoholic Beverage, Haria",
+      "url": "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2021.680738/full",
+      "datePublished": "2021",
+      "spatialCoverage": "West Bengal"
+    },
+    {
+      "@id": "hadia:source/HS0008",
+      "@type": "CreativeWork",
+      "name": "Screening of health beneficial microbes with potential probiotic characteristics from the traditional rice-based alcoholic beverage, haria",
+      "url": "https://www.abs.bibl.u-szeged.hu/index.php/abs/article/view/2913",
+      "datePublished": "2017",
+      "spatialCoverage": "Bankura, West Bengal"
+    },
+    {
+      "@id": "hadia:source/HS0009",
+      "@type": "CreativeWork",
+      "name": "A novel probiotic strain of Lactobacillus fermentum TIU19 isolated from Haria beer showing both in vitro antibacterial and antibiofilm properties",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9325903/",
+      "datePublished": "2022",
+      "spatialCoverage": "West Bengal"
+    },
+    {
+      "@id": "hadia:source/HS0010",
+      "@type": "CreativeWork",
+      "name": "Traditional Knowledge and Nutritive Value of Indigenous Foods in the Oraon Tribal Community of Jharkhand",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4714238/",
+      "datePublished": "2015",
+      "spatialCoverage": "Jharkhand"
+    },
+    {
+      "@id": "hadia:source/HS0011",
+      "@type": "CreativeWork",
+      "name": "Traditional food consumption pattern and nutritional status of Oraons: An Asian Indian indigenous community",
+      "url": "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2023.969264/full",
+      "datePublished": "2023",
+      "spatialCoverage": "West Bengal"
+    },
+    {
+      "@id": "hadia:source/HS0012",
+      "@type": "CreativeWork",
+      "name": "Sarhul",
+      "url": "https://cm.jharkhand.gov.in/sarhul",
+      "datePublished": "2026",
+      "spatialCoverage": "Jharkhand"
+    },
+    {
+      "@id": "hadia:source/HS0013",
+      "@type": "CreativeWork",
+      "name": "Culture & Heritage",
+      "url": "https://khunti.nic.in/culture-heritage/",
+      "datePublished": "2026",
+      "spatialCoverage": "Khunti, Jharkhand"
+    },
+    {
+      "@id": "hadia:source/HS0014",
+      "@type": "CreativeWork",
+      "name": "Phulo Jhano Aashirwad campaign interaction",
+      "url": "https://cm.jharkhand.gov.in/node/13913",
+      "datePublished": "2021",
+      "spatialCoverage": "Jharkhand"
+    },
+    {
+      "@id": "hadia:source/HS0015",
+      "@type": "CreativeWork",
+      "name": "Rural Development Department review - Phulo Jhano",
+      "url": "https://cm.jharkhand.gov.in/node/14041",
+      "datePublished": "2020",
+      "spatialCoverage": "Jharkhand"
+    },
+    {
+      "@id": "hadia:source/HS0016",
+      "@type": "CreativeWork",
+      "name": "The Excise Law of Bihar & Jharkhand 1915",
+      "url": "https://www.indiacode.nic.in/handle/123456789/6054?sam_handle=%2F1000",
+      "datePublished": "1915",
+      "spatialCoverage": "Jharkhand"
+    },
+    {
+      "@id": "hadia:source/HS0017",
+      "@type": "CreativeWork",
+      "name": "Food Safety and Standards (Alcoholic Beverages) First Amendment Regulations, 2025",
+      "url": "https://fssai.gov.in/upload/uploadfiles/files/Food%20Safety%20and%20Standards_Alcoholic%20Beverages_First%20Amendment%20Regulations%202025.pdf",
+      "datePublished": "2025",
+      "spatialCoverage": "India"
+    },
+    {
+      "@id": "hadia:source/HS0018",
+      "@type": "CreativeWork",
+      "name": "Process characteristics and nutritional evaluation of handia - A cereal based ethnic fermented food from Odisha",
+      "url": "https://www.researchgate.net/publication/286861722_Process_characteristics_and_nutritional_evaluation_of_handia_-A_cereal_based_ethnic_fermented_food_from_Odisha",
+      "datePublished": "2014",
+      "spatialCoverage": "Northern Odisha"
+    },
+    {
+      "@id": "hadia:source/HS0019",
+      "@type": "CreativeWork",
+      "name": "Ethnobotanical perspectives of Bakhar: an indigenous starter culture used to prepare traditionally fermented rice beverage in rural West Bengal, India",
+      "url": "https://link.springer.com/article/10.1186/s42779-022-00143-6",
+      "datePublished": "2022",
+      "spatialCoverage": "West Bengal"
+    },
+    {
+      "@id": "hadia:source/HS0020",
+      "@type": "CreativeWork",
+      "name": "The Microbiology and Traditional State of Fermented Beverage Handia: A Review",
+      "url": "https://www.researchgate.net/publication/381709181_The_Microbiology_and_Traditional_State_of_Fermented_Beverage_Handia_A_Review",
+      "datePublished": "2022",
+      "spatialCoverage": "Eastern India"
+    },
+    {
+      "@id": "hadia:source/HS0021",
+      "@type": "CreativeWork",
+      "name": "A Review on Handia - A Traditional Drink of Tribals",
+      "url": "https://www.ijfans.org/index.php/Journal/article/view/1568",
+      "datePublished": "2024",
+      "spatialCoverage": "Eastern/North-eastern India"
+    },
+    {
+      "@id": "hadia:source/HS0022",
+      "@type": "CreativeWork",
+      "name": "Brewing Belief: The Cultural and Political Life of Hadia and Sarhul in Jharkhand",
+      "url": "https://www.researchgate.net/publication/398938892_Brewing_Belief_The_Cultural_and_Political_Life_of_Hadia_and_Sarhul_in_Jharkhand",
+      "datePublished": "2025",
+      "spatialCoverage": "Jharkhand"
+    },
+    {
+      "@id": "hadia:source/HS0023",
+      "@type": "CreativeWork",
+      "name": "Physicochemical, antibacterial and antioxidant evaluation of cereal-based ethnic fermented Handia",
+      "url": "https://doi.org/10.1016/j.foohum.2026.101348",
+      "datePublished": "2026",
+      "spatialCoverage": "Mayurbhanj, Odisha"
+    },
+    {
+      "@id": "hadia:source/HS0024",
+      "@type": "CreativeWork",
+      "name": "HR-LCMS based metabolite profiling, antioxidant activity and microbial study of haria from North Dinajpur",
+      "url": "https://doi.org/10.1016/j.btre.2025.102020",
+      "datePublished": "2025",
+      "spatialCoverage": "North Dinajpur, West Bengal"
+    },
+    {
+      "@id": "hadia:source/HS0025",
+      "@type": "CreativeWork",
+      "name": "Handiya",
+      "url": "https://thelocavore.in/2026/04/21/handiya/",
+      "datePublished": "2026",
+      "spatialCoverage": "Jharkhand"
+    },
+    {
+      "@id": "hadia:source/HS0026",
+      "@type": "CreativeWork",
+      "name": "Ethnobotany of Bakhar used to prepare rice beer (Haria) in Paschim Medinipur, West Bengal, India",
+      "url": "https://ir.vidyasagar.ac.in/handle/123456789/5186",
+      "datePublished": "2017",
+      "spatialCoverage": "Paschim Medinipur, West Bengal"
+    },
+    {
+      "@id": "hadia:source/HS0027",
+      "@type": "CreativeWork",
+      "name": "Antimicrobial efficacy of potential plants used in the indigenous preparation of traditional rice beverage Handia",
+      "url": "https://ijp.arjournals.org/index.php/ijp/article/view/297",
+      "datePublished": "2013",
+      "spatialCoverage": "Odisha"
+    },
+    {
+      "@id": "hadia:source/HS0028",
+      "@type": "CreativeWork",
+      "name": "Microbial, saccharifying and antioxidant properties of an Indian rice based fermented beverage",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25172700/",
+      "datePublished": "2015",
+      "spatialCoverage": "West Bengal"
+    },
+    {
+      "@id": "hadia:source/HS0029",
+      "@type": "CreativeWork",
+      "name": "Rice and other cereals based beverages",
+      "url": "https://www.bdu.ac.in/schools/biotechnology-and-genetic-engineering/biotechnology/sekardb/pdf/beverage/2.pdf",
+      "datePublished": "2010",
+      "spatialCoverage": "India"
+    },
+    {
+      "@id": "hadia:claim/HCLM0001",
+      "@type": "Claim",
+      "text": "A Jharkhand checklist reports more than 53 plants associated with Handia preparation.",
+      "spatialCoverage": "Jharkhand",
+      "nameAsReported": "Handia",
+      "evidenceSource": {
+        "@id": "hadia:source/HS0001"
+      }
+    },
+    {
+      "@id": "hadia:claim/HCLM0002",
+      "@type": "Claim",
+      "text": "The surveyed study reported replacement of some traditional herbs with urea, raw mahua liquor or spirit in some areas.",
+      "spatialCoverage": "Jharkhand",
+      "nameAsReported": "Handia",
+      "evidenceSource": {
+        "@id": "hadia:source/HS0001"
+      }
+    },
+    {
+      "@id": "hadia:claim/HCLM0003",
+      "@type": "Claim",
+      "text": "Ho Ranu in West Singhbhum was reported to use Woodfordia fruticosa, Ruellia tuberosa, Andrographis paniculata, Dioscorea bulbifera roots and Madhuca longifolia bark.",
+      "spatialCoverage": "West Singhbhum, Jharkhand",
+      "nameAsReported": "Handia",
+      "evidenceSource": {
+        "@id": "hadia:source/HS0002"
+      }
+    },
+    {
+      "@id": "hadia:claim/HCLM0004",
+      "@type": "Claim",
+      "text": "Ranu composition varies among regions and tribes according to the Khunti Oraon study.",
+      "spatialCoverage": "Khunti, Jharkhand",
+      "nameAsReported": "Handia",
+      "evidenceSource": {
+        "@id": "hadia:source/HS0003"
+      }
+    },
+    {
+      "@id": "hadia:claim/HCLM0005",
+      "@type": "Claim",
+      "text": "The Khunti study describes Handia as socially, culturally, economically and religiously important.",
+      "spatialCoverage": "Khunti, Jharkhand",
+      "nameAsReported": "Handia",
+      "evidenceSource": {
+        "@id": "hadia:source/HS0003"
+      }
+    },
+    {
+      "@id": "hadia:claim/HCLM0006",
+      "@type": "Claim",
+      "text": "Haria was prepared from boiled rice with Bakhar in heat-sterilized earthen pots for roughly 3–4 days.",
+      "spatialCoverage": "West Bengal",
+      "nameAsReported": "Haria",
+      "evidenceSource": {
+        "@id": "hadia:source/HS0004"
+      }
+    },
+    {
+      "@id": "hadia:claim/HCLM0007",
+      "@type": "Claim",
+      "text": "Consumable Haria in the cited study had about 2–3% v/v alcohol and titratable acidity of 1.42%.",
+      "spatialCoverage": "West Bengal",
+      "nameAsReported": "Haria",
+      "evidenceSource": {
+        "@id": "hadia:source/HS0004"
+      }
+    },
+    {
+      "@id": "hadia:claim/HCLM0008",
+      "@type": "Claim",
+      "text": "Yeasts and moulds peaked around day 2, while LAB and Bifidobacterium increased during the cited Haria fermentation.",
+      "spatialCoverage": "West Bengal",
+      "nameAsReported": "Haria",
+      "evidenceSource": {
+        "@id": "hadia:source/HS0005"
+      }
+    },
+    {
+      "@id": "hadia:claim/HCLM0009",
+      "@type": "Claim",
+      "text": "The Haria study measured maltotetrose 26.18 µg/g, maltotriose 28.16 µg/g and maltose 26.94 µg/g.",
+      "spatialCoverage": "West Bengal",
+      "nameAsReported": "Haria",
+      "evidenceSource": {
+        "@id": "hadia:source/HS0005"
+      }
+    },
+    {
+      "@id": "hadia:claim/HCLM0010",
+      "@type": "Claim",
+      "text": "Fermented material showed 82.54% DPPH radical-scavenging activity on day 4.",
+      "spatialCoverage": "West Bengal",
+      "nameAsReported": "Haria",
+      "evidenceSource": {
+        "@id": "hadia:source/HS0005"
+      }
+    },
+    {
+      "@id": "hadia:claim/HCLM0011",
+      "@type": "Claim",
+      "text": "Twenty-nine LAB colony types were isolated; Lactobacillus fermentum KKL1 was selected and identified using 16S rRNA.",
+      "spatialCoverage": "West Bengal",
+      "nameAsReported": "Haria",
+      "evidenceSource": {
+        "@id": "hadia:source/HS0006"
+      }
+    },
+    {
+      "@id": "hadia:claim/HCLM0012",
+      "@type": "Claim",
+      "text": "PCR-DGGE reported L. plantarum, L. brevis, Lysinibacillus sp., L. fusiformis and uncultured Bacillus groups.",
+      "spatialCoverage": "West Bengal",
+      "nameAsReported": "Haria",
+      "evidenceSource": {
+        "@id": "hadia:source/HS0007"
+      }
+    },
+    {
+      "@id": "hadia:claim/HCLM0013",
+      "@type": "Claim",
+      "text": "The study reported lactic acid 17.63 mg/g, acetic acid 0.18 mg/g and peak phytase activity 18.93 U/g at day 4.",
+      "spatialCoverage": "West Bengal",
+      "nameAsReported": "Haria",
+      "evidenceSource": {
+        "@id": "hadia:source/HS0007"
+      }
+    },
+    {
+      "@id": "hadia:claim/HCLM0014",
+      "@type": "Claim",
+      "text": "From 29 Bankura Haria samples, 45 dominant bacterial isolates were purified; Bifidobacterium sp. MKK4, Pediococcus lolli MKK21 and Lactobacillus sp. MKK37 were shortlisted.",
+      "spatialCoverage": "Bankura, West Bengal",
+      "nameAsReported": "Haria",
+      "evidenceSource": {
+        "@id": "hadia:source/HS0008"
+      }
+    },
+    {
+      "@id": "hadia:claim/HCLM0015",
+      "@type": "Claim",
+      "text": "Lactobacillus fermentum TIU19 isolated from Haria showed in-vitro antibacterial and antibiofilm properties in the study.",
+      "spatialCoverage": "West Bengal",
+      "nameAsReported": "Haria",
+      "evidenceSource": {
+        "@id": "hadia:source/HS0009"
+      }
+    },
+    {
+      "@id": "hadia:claim/HCLM0016",
+      "@type": "Claim",
+      "text": "An Oraon Jharkhand food study lists Hadiya as an alcoholic fermented rice preparation obtained from home or market.",
+      "spatialCoverage": "Jharkhand",
+      "nameAsReported": "Hadiya",
+      "evidenceSource": {
+        "@id": "hadia:source/HS0010"
+      }
+    },
+    {
+      "@id": "hadia:claim/HCLM0017",
+      "@type": "Claim",
+      "text": "A study reported raw Handia values: carbohydrate 55 mg/100 ml, glucose 10.2 mg/100 ml, protein 162 mg/100 ml, fat 5.6 mg/100 ml and alcohol 11.3%.",
+      "spatialCoverage": "West Bengal",
+      "nameAsReported": "Handia",
+      "evidenceSource": {
+        "@id": "hadia:source/HS0011"
+      }
+    },
+    {
+      "@id": "hadia:claim/HCLM0018",
+      "@type": "Claim",
+      "text": "Jharkhand Government's Sarhul page states Handia is distributed as prasad during Sarhul.",
+      "spatialCoverage": "Jharkhand",
+      "nameAsReported": "Handia",
+      "evidenceSource": {
+        "@id": "hadia:source/HS0012"
+      }
+    },
+    {
+      "@id": "hadia:claim/HCLM0019",
+      "@type": "Claim",
+      "text": "Khunti district's official page describes rice beer in Munda festival contexts including Karam and Sohrai.",
+      "spatialCoverage": "Khunti, Jharkhand",
+      "nameAsReported": "rice beer",
+      "evidenceSource": {
+        "@id": "hadia:source/HS0013"
+      }
+    },
+    {
+      "@id": "hadia:claim/HCLM0020",
+      "@type": "Claim",
+      "text": "Phulo Jhano supports women leaving hadiya/local-liquor production and sale for alternative livelihoods.",
+      "spatialCoverage": "Jharkhand",
+      "nameAsReported": "हड़िया",
+      "evidenceSource": {
+        "@id": "hadia:source/HS0014"
+      }
+    },
+    {
+      "@id": "hadia:claim/HCLM0021",
+      "@type": "Claim",
+      "text": "A government review reported 16,549 women identified and 7,175 connected to the campaign at that reporting time.",
+      "spatialCoverage": "Jharkhand",
+      "nameAsReported": "हड़िया",
+      "evidenceSource": {
+        "@id": "hadia:source/HS0015"
+      }
+    },
+    {
+      "@id": "hadia:claim/HCLM0022",
+      "@type": "Claim",
+      "text": "Jharkhand excise law defines pachwai as fermented rice, millet or other grain and liquid obtained from it.",
+      "spatialCoverage": "Jharkhand",
+      "nameAsReported": "pachwai",
+      "evidenceSource": {
+        "@id": "hadia:source/HS0016"
+      }
+    },
+    {
+      "@id": "hadia:claim/HCLM0023",
+      "@type": "Claim",
+      "text": "FSSAI lists Handia as rice + ranu and Haria as rice + bhakar/dabai/mod pitha in the 2025 amendment annexure.",
+      "spatialCoverage": "India",
+      "nameAsReported": "Handia; Haria",
+      "evidenceSource": {
+        "@id": "hadia:source/HS0017"
+      }
+    },
+    {
+      "@id": "hadia:claim/HCLM0024",
+      "@type": "Claim",
+      "text": "A northern Odisha study reported 20 plant species used for Handia ranu/bakhar starter.",
+      "spatialCoverage": "Northern Odisha",
+      "nameAsReported": "Handia",
+      "evidenceSource": {
+        "@id": "hadia:source/HS0018"
+      }
+    },
+    {
+      "@id": "hadia:claim/HCLM0025",
+      "@type": "Claim",
+      "text": "A West Bengal Santal Bakhar study documented 10 plant species plus one lichen.",
+      "spatialCoverage": "West Bengal",
+      "nameAsReported": "Haria",
+      "evidenceSource": {
+        "@id": "hadia:source/HS0019"
+      }
+    },
+    {
+      "@id": "hadia:claim/HCLM0026",
+      "@type": "Claim",
+      "text": "The study reported homemade Haria ascorbic acid 15.40 mg/100 ml and flavonoids 36.67 mg/100 ml.",
+      "spatialCoverage": "West Bengal",
+      "nameAsReported": "Haria",
+      "evidenceSource": {
+        "@id": "hadia:source/HS0019"
+      }
+    },
+    {
+      "@id": "hadia:claim/HCLM0027",
+      "@type": "Claim",
+      "text": "A 2026 Mayurbhanj Handia study used FTIR, GC-MS and ICP-OES and reported essential minerals and aroma-related compounds.",
+      "spatialCoverage": "Mayurbhanj, Odisha",
+      "nameAsReported": "Handia",
+      "evidenceSource": {
+        "@id": "hadia:source/HS0023"
+      }
+    },
+    {
+      "@id": "hadia:claim/HCLM0028",
+      "@type": "Claim",
+      "text": "The 2026 Mayurbhanj study reported trace lead and copper in its urban Handia sample.",
+      "spatialCoverage": "Mayurbhanj, Odisha",
+      "nameAsReported": "Handia",
+      "evidenceSource": {
+        "@id": "hadia:source/HS0023"
+      }
+    },
+    {
+      "@id": "hadia:claim/HCLM0029",
+      "@type": "Claim",
+      "text": "A 2025 North Dinajpur Haria study detected 60 HR-LCMS compounds, 37 identified.",
+      "spatialCoverage": "North Dinajpur, West Bengal",
+      "nameAsReported": "Haria",
+      "evidenceSource": {
+        "@id": "hadia:source/HS0024"
+      }
+    },
+    {
+      "@id": "hadia:claim/HCLM0030",
+      "@type": "Claim",
+      "text": "The study reported Mipafox/N,N'-diethylthiourea signals and Enterobacter sp.",
+      "spatialCoverage": "North Dinajpur, West Bengal",
+      "nameAsReported": "Haria",
+      "evidenceSource": {
+        "@id": "hadia:source/HS0024"
+      }
+    },
+    {
+      "@id": "hadia:claim/HCLM0031",
+      "@type": "Claim",
+      "text": "A Jharkhand community-facing account describes household variation in Ranu ingredient numbers/composition.",
+      "spatialCoverage": "Jharkhand",
+      "nameAsReported": "Handiya",
+      "evidenceSource": {
+        "@id": "hadia:source/HS0025"
+      }
+    },
+    {
+      "@id": "hadia:claim/HCLM0032",
+      "@type": "Claim",
+      "text": "A Paschim Medinipur study reports 18 plant species used as ingredients of Bakhar tablets for Haria/Handia preparation.",
+      "spatialCoverage": "Paschim Medinipur, West Bengal",
+      "nameAsReported": "Handia or Haria",
+      "evidenceSource": {
+        "@id": "hadia:source/HS0026"
+      }
+    },
+    {
+      "@id": "hadia:claim/HCLM0033",
+      "@type": "Claim",
+      "text": "The same Bakhar study reports that 14 of the 18 documented starter plants were also used by local medicine men in folk medicine.",
+      "spatialCoverage": "Paschim Medinipur, West Bengal",
+      "nameAsReported": "Haria",
+      "evidenceSource": {
+        "@id": "hadia:source/HS0026"
+      }
+    },
+    {
+      "@id": "hadia:claim/HCLM0034",
+      "@type": "Claim",
+      "text": "A Handia starter-plant study used interviews with 24 informants from 24 locations and laboratory phytochemical and antibacterial assays against enteric pathogens.",
+      "spatialCoverage": "Odisha",
+      "nameAsReported": "Handia",
+      "evidenceSource": {
+        "@id": "hadia:source/HS0027"
+      }
+    }
+  ]
+}

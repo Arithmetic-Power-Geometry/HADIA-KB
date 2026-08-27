@@ -1,0 +1,3 @@
+﻿contradiction_id,topic,record_a,record_b,relationship,explanation,status,dataset_version
+HCON0001,alcohol_content,HME0001,HME0014,contextual_difference,2–3% v/v refers to a consumable Haria study; 11.3% refers to raw Handia before dilution in a different study/population. These are not directly comparable.,resolved_as_context_difference,1.0.0
+HCON0002,starter_name,HN0006,HN0007,terminological_geographic_variation,Ranu and Bakhar/Bhakar are source- and region-dependent starter names; HADIA-KB preserves rather than collapses them.,preserved_variation,1.0.0

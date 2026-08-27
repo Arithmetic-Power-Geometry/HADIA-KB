@@ -1,0 +1,10 @@
+﻿gap_id,gap_type,topic_or_scope,current_jharkhand_claim_count,interpretation,caution,dataset_version
+HG0001,documented_evidence_coverage,microbiology,0,Sparse in current corpus,"This is a corpus-coverage indicator, not proof that knowledge or practice is absent in Jharkhand.",1.0.0
+HG0002,documented_evidence_coverage,chemistry,0,Sparse in current corpus,"This is a corpus-coverage indicator, not proof that knowledge or practice is absent in Jharkhand.",1.0.0
+HG0003,documented_evidence_coverage,nutrition,0,Sparse in current corpus,"This is a corpus-coverage indicator, not proof that knowledge or practice is absent in Jharkhand.",1.0.0
+HG0004,documented_evidence_coverage,safety/adulteration,1,Sparse in current corpus,"This is a corpus-coverage indicator, not proof that knowledge or practice is absent in Jharkhand.",1.0.0
+HG0005,documented_evidence_coverage,metabolomics,0,Sparse in current corpus,"This is a corpus-coverage indicator, not proof that knowledge or practice is absent in Jharkhand.",1.0.0
+HG0006,documented_evidence_coverage,ethnobotany,2,Represented in current corpus,"This is a corpus-coverage indicator, not proof that knowledge or practice is absent in Jharkhand.",1.0.0
+HG0007,documented_evidence_coverage,culture,3,Represented in current corpus,"This is a corpus-coverage indicator, not proof that knowledge or practice is absent in Jharkhand.",1.0.0
+HG0008,documented_evidence_coverage,policy,2,Represented in current corpus,"This is a corpus-coverage indicator, not proof that knowledge or practice is absent in Jharkhand.",1.0.0
+HG0009,documented_evidence_coverage,law,1,Sparse in current corpus,"This is a corpus-coverage indicator, not proof that knowledge or practice is absent in Jharkhand.",1.0.0

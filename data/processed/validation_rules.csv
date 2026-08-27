@@ -1,0 +1,10 @@
+﻿rule_id,domain,rule
+VR001,Geography,Never generalize a finding beyond its source geography.
+VR002,Names,Preserve exact name_as_reported and normalize separately.
+VR003,Health,"Separate ethnomedicinal claims, in-vitro bioactivity, composition and clinical evidence."
+VR004,Independence,Do not count reviews/copied web pages as independent confirmation.
+VR005,Measurements,"Always retain value, unit, sample state, geography and source."
+VR006,Botany,Preserve source taxon string; do not silently correct uncertain names.
+VR007,Microbiology,Store identification method because culture/16S/PCR-DGGE are not equivalent.
+VR008,Copyright,Store metadata + paraphrased claims; do not redistribute third-party full text without permission.
+VR009,Scope,"HADIA-KB maps publicly documented evidence, not all community-held knowledge."

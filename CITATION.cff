@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use HADIA-KB or the HADIA software, please cite this software/data release."
+title: "HADIA-KB: Evidence-Linked Knowledge Base of Handia/Hadia/Haria"
+version: 1.0.0
+date-released: 2026-08-27
+type: dataset
+authors:
+  - family-names: "Akhtar"
+    given-names: "Mohammad Amir Khusru"
+license: CC-BY-4.0
+abstract: "A source-linked digital evidence infrastructure for publicly documented knowledge about Handia/Hadia/Haria, with Jharkhand as the primary focus."

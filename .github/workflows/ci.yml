@@ -1,0 +1,37 @@
+name: HADIA CI
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          cache: 'pip'
+      - name: Install dependencies
+        run: pip install -r requirements.txt -r requirements-api.txt pytest httpx
+      - name: Compile Python
+        run: python -m compileall -q streamlit_app.py hadia backend analytics
+      - name: Validate dataset
+        run: python analytics/generate_summary.py
+      - name: Run tests
+        run: pytest -q
+      - name: Streamlit smoke test
+        run: |
+          streamlit run streamlit_app.py --server.headless true --server.port 8501 > /tmp/hadia.log 2>&1 &
+          APP_PID=$!
+          python - <<'PY'
+          import time, urllib.request
+          ok=False
+          for _ in range(30):
+              try:
+                  with urllib.request.urlopen('http://127.0.0.1:8501/_stcore/health', timeout=2) as r:
+                      if r.status==200: ok=True; break
+              except Exception: time.sleep(1)
+          if not ok: raise SystemExit('Streamlit health check failed')
+          PY
+          kill $APP_PID

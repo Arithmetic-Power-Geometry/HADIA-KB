@@ -1,11 +1,54 @@
 cff-version: 1.2.0
-message: "If you use HADIA-KB or the HADIA software, please cite this software/data release."
-title: "HADIA-KB: Evidence-Linked Knowledge Base of Handia/Hadia/Haria"
+
+message: "If you use HADIA-KB or the HADIA software in research, please cite this release."
+
+title: "HADIA-KB: An Evidence-Linked Knowledge Base and Interactive Research Platform for Handia/Hadia/Haria"
+
 version: 1.0.0
 date-released: 2026-08-27
-type: dataset
+type: software
+
 authors:
   - family-names: "Akhtar"
     given-names: "Mohammad Amir Khusru"
-license: CC-BY-4.0
-abstract: "A source-linked digital evidence infrastructure for publicly documented knowledge about Handia/Hadia/Haria, with Jharkhand as the primary focus."
+
+doi: 10.5281/zenodo.22132285
+
+url: "https://github.com/Arithmetic-Power-Geometry/HADIA-KB"
+
+repository-code: "https://github.com/Arithmetic-Power-Geometry/HADIA-KB"
+
+abstract: "HADIA-KB is an open, evidence-linked digital knowledge base and interactive research platform for publicly documented knowledge concerning Handia/Hadia/Haria, a traditional rice-based fermented beverage (rice beer), with Jharkhand, India, as its primary geographic focus. It integrates source-linked evidence concerning Ranu and other starter cultures, plant ingredients, fermentation, microorganisms, chemical and nutritional measurements, communities, geography, cultural practices, policy, law, and scientific literature while preserving provenance, terminology, geographic context, and evidence type."
+
+license: Apache-2.0
+
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22132285"
+    description: "Zenodo DOI for HADIA-KB version 1.0.0"
+
+  - type: url
+    value: "https://zenodo.org/records/22132285"
+    description: "Archived HADIA-KB v1.0.0 release on Zenodo"
+
+keywords:
+  - "HADIA-KB"
+  - "Handia"
+  - "Hadia"
+  - "Hadiya"
+  - "Haria"
+  - "Hariya"
+  - "rice beer"
+  - "Jharkhand"
+  - "Ranu"
+  - "fermentation"
+  - "ethnobotany"
+  - "microbiology"
+  - "food science"
+  - "traditional knowledge"
+  - "indigenous knowledge"
+  - "cultural heritage"
+  - "knowledge base"
+  - "open data"
+  - "open science"
+  - "research software"

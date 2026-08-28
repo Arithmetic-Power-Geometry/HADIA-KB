@@ -194,7 +194,7 @@ elif page=="Download Data":
     for i,(name,df) in enumerate(D.items()):
         if df.empty: continue
         with cols[i%3]: st.download_button(f"CSV · {name}",to_csv_bytes(df),f"HADIA_{name}.csv","text/csv",key=f"d_{name}",use_container_width=True)
-    st.info("For reproducible research, please cite the exact archived HADIA-KB release available on Zenodo: https://doi.org/10.5281/zenodo.22132285")
+    st.info("Cite the archived HADIA-KB release on Zenodo: https://doi.org/10.5281/zenodo.22132285")
 
 else:
     hero("About HADIA","A digital heritage and scientific evidence infrastructure designed to make documented knowledge about Handia easier to discover, audit and reuse.")
@@ -207,7 +207,9 @@ else:
     else: st.success("All packaged relational integrity checks passed for this release.")
     st.markdown("### Licensing")
     st.markdown("**Software:** Apache License 2.0  \n**Dataset compilation/annotations/schema/docs:** CC BY 4.0  \n**Third-party publications and linked source material:** retain their own rights.")
-    st.markdown("### Citation")
-    st.code("Akhtar, M. A. K. (2026). HADIA-KB: An Evidence-Linked Knowledge Base and Interactive Research Platform for Handia/Hadia/Haria (Version V1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22132285")
+st.markdown("### Citation")
+st.markdown(
+    "Akhtar, M. A. K. (2026). *HADIA-KB: An Evidence-Linked Knowledge Base and Interactive Research Platform for Handia/Hadia/Haria* (Version V1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22132285"
+)
 
 st.markdown('<div class="foot">HADIA · Evidence before assertion · Copyright (C) 2026 Mohammad Amir Khusru Akhtar</div>',unsafe_allow_html=True)

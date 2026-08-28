@@ -194,7 +194,7 @@ elif page=="Download Data":
     for i,(name,df) in enumerate(D.items()):
         if df.empty: continue
         with cols[i%3]: st.download_button(f"CSV · {name}",to_csv_bytes(df),f"HADIA_{name}.csv","text/csv",key=f"d_{name}",use_container_width=True)
-    st.info("Cite the archived HADIA-KB release on Zenodo: https://doi.org/10.5281/zenodo.22132285")
+    st.info("Download the complete archived HADIA-KB v1.0.0 release from Zenodo: https://doi.org/10.5281/zenodo.22132285")
 
 else:
     hero("About HADIA","A digital heritage and scientific evidence infrastructure designed to make documented knowledge about Handia easier to discover, audit and reuse.")

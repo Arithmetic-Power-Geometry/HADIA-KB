@@ -209,7 +209,11 @@ else:
     st.markdown("**Software:** Apache License 2.0  \n**Dataset compilation/annotations/schema/docs:** CC BY 4.0  \n**Third-party publications and linked source material:** retain their own rights.")
 st.markdown("### Citation")
 st.markdown(
-    "Akhtar, M. A. K. (2026). *HADIA-KB: An Evidence-Linked Knowledge Base and Interactive Research Platform for Handia/Hadia/Haria* (Version V1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22132285"
+    "**Paper:** Akhtar, M. A. K. (2026). *HADIA-KB: Evidence-Preserving Digital Knowledge Infrastructure for Jharkhand's Traditional Rice Beer* [Preprint]. Zenodo. https://doi.org/10.5281/zenodo.22132847"
+)
+
+st.markdown(
+    "**Software:** Akhtar, M. A. K. (2026). *HADIA-KB: An Evidence-Linked Knowledge Base and Interactive Research Platform for Handia/Hadia/Haria* (Version V1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22132285"
 )
 
 st.markdown('<div class="foot">HADIA · Evidence before assertion · Copyright (C) 2026 Mohammad Amir Khusru Akhtar</div>',unsafe_allow_html=True)
